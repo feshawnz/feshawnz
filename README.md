@@ -1,7 +1,8 @@
 ![](https://s4.ezgif.com/tmp/ezgif-4-7dc2594801.gif)
 ## Hi there, I'm Shawn 👋
 
-I'm a passionate Frontend Developer specializing in building interactive and dynamic web applications. I love crafting user interfaces that are not only visually appealing but also highly functional.
+I'm a passionate Frontend Developer specializing in building interactive and dynamic web applications. <br/>
+I love crafting user interfaces that are not only visually appealing but also highly functional.
 
 ## 💅🏻 Languages & Tools
 <p>
