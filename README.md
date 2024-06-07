@@ -1,4 +1,4 @@
-![]([https://preview.redd.it/1d11s820dgm91.gif?width=675&format=mp4&s=08fd1dffb13ac194498fea85448d4604ec953ab4](https://s4.ezgif.com/tmp/ezgif-4-7dc2594801.gif))
+![](https://s4.ezgif.com/tmp/ezgif-4-7dc2594801.gif)
 ## Hi there, I'm Shawn 👋
 ![Software Developer by Day, Pixel Artist by Night](https://preview.redd.it/wmfjn8i7khm91.gif)
 
