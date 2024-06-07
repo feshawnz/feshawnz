@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Shawn 👋
 
+I'm a passionate Frontend Developer specializing in building interactive and dynamic web applications. I love crafting user interfaces that are not only visually appealing but also highly functional.
 <!--
 **feshawnz/feshawnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
