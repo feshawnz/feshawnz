@@ -1,6 +1,5 @@
 ![](https://s4.ezgif.com/tmp/ezgif-4-7dc2594801.gif)
 ## Hi there, I'm Shawn 👋
-![Software Developer by Day, Pixel Artist by Night](https://preview.redd.it/wmfjn8i7khm91.gif)
 
 I'm a passionate Frontend Developer specializing in building interactive and dynamic web applications. I love crafting user interfaces that are not only visually appealing but also highly functional.
 <!--
