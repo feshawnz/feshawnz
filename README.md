@@ -1,4 +1,4 @@
-![](https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm)
+![](https://i.gifer.com/49OP.gif)
 
 ## Hi there, I'm Shawn 👋
 
