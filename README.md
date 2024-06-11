@@ -1,5 +1,4 @@
-![123](https://i.gifer.com/2oT.gif)
-
+![](https://s4.ezgif.com/tmp/ezgif-4-7dc2594801.gif)
 ## Hi there, I'm Shawn 👋
 
 I'm a passionate Frontend Developer specializing in building interactive and dynamic web applications. <br/>
